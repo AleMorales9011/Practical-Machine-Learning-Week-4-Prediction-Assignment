@@ -247,7 +247,7 @@ ggplot(performance %>% filter(term == "accuracy"),
        subtitle = "Prediction Accuracy based on train and validation data")
 ```
 
-![](Prediction-Assignment-Writeup_files/figure-gfm/evaluation-1.png)<!-- -->
+![](Prediction-Assignment/evaluation-1.png)<!-- -->
 
 ## Conclusion
 
