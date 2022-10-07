@@ -331,7 +331,7 @@ boxplot(sapply(pml_training %>%
 barplot(n ~ classe, data=nClasses, ylab="N(Classes)", xlab="Class", main="Class Count")
 ```
 
-![](Prediction-Assignment-Writeup_files/figure-gfm/Exploratory-1.png)<!-- -->
+![](Exploratory-1.png)<!-- -->
 
 ### Predictor Impact
 
