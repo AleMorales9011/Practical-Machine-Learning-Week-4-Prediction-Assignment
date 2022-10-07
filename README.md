@@ -345,7 +345,7 @@ plot_features(explanation) +
        caption="Index: 826")
 ```
 
-![](Prediction-Assignment-Writeup_files/figure-gfm/PredictorImpact-1.png)<!-- -->
+![](PredictorImpact-1.png)<!-- -->
 
 ### Metrics for Random Forest
 
