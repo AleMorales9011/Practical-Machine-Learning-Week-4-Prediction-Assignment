@@ -1,6 +1,5 @@
 Practical Machine Learning
 ================
-Tobias Heidler
 2020-11-14
 
   - [Abstract](#abstract)
