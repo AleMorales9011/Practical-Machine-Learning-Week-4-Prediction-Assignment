@@ -1,6 +1,6 @@
 Practical Machine Learning
 ================
-2020-11-14
+
 
   - [Abstract](#abstract)
   - [Data Sources](#data-sources)
